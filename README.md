@@ -13,6 +13,10 @@
             THEN I am shown the current and future conditions for that selected city
             WHEN I open the weather dashboard
             THEN I am shown the forecast for the most recent searched city
+            
+## Snapshot
+![image](https://user-images.githubusercontent.com/111201217/222982391-6a339b3b-8570-48f5-b613-bac5fbcbc0ac.png)
+
 
 ## Date 
 
